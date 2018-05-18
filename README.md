@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Link to INDEX PAGE (pages/index.html);
+[Link to INDEX PAGE](pages/index.html);
 
 You can use the [editor on GitHub](https://github.com/msaguindang/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

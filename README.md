@@ -1,6 +1,6 @@
 ## A GitHub page that is also a personal page
 
-[Image](assets/images/le-face.png)
+[Image](/assets/images/le-face.png)
 
 You can use the [editor on GitHub](https://github.com/msaguindang/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
